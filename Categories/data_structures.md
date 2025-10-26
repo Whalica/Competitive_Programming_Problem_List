@@ -1,0 +1,21 @@
+## 数据结构
+
+### 树状数组
+
+- [洛谷 P5094](https://www.luogu.com.cn/problem/P5094) 树状数组贡献法处理绝对值求和问题
+
+### 线段树
+
+#### 线段树的基础应用
+
+- [2023 ICPC 西安区域赛 A](https://codeforces.com/gym/105471/problem/A) 线段树维护区间哈希
+
+- [牛客 2025 秋季算法编程训练联赛 2 - 提升组 F](https://ac.nowcoder.com/acm/contest/119774/F) 线段树节点合并
+
+#### 势能线段树
+
+- [洛谷 P4145](https://www.luogu.com.cn/problem/P4145) 区间开根号区间和
+
+- [Educational Codeforces Round 37 F](https://codeforces.com/problemset/problem/920/F) 区间取因子数区间和
+
+- [Codeforces Round 250 D](https://codeforces.com/problemset/problem/438/D) 带单点修改的区间取模区间和
