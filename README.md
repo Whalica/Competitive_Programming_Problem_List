@@ -1,2 +1,11 @@
-# Competitive_Programming_Problem_List
-A list of competitive programming problems I've solved, categorized by topic with detailed notes. This repository also hosts the problem sets and solutions for my self-organized contests.
+## 华黎卡的算法竞赛题单
+
+### 关于此资源库
+这是一个个人向算法竞赛题单，按知识点与题型分类（而不是按 rating 分类），便于总结一类题型的解决办法；同时还有个人举办的小型程序设计赛事 Whalica Cup 的相关资源，欢迎参加 Whalica Cup ！
+
+### 此资源库的特点
+- 本题单按知识点和题型分类，把知识点或处理方法相似的题目归为一类，能极大方便对于零散知识的总结；
+- 本题单不明确标出题目的相关  Rating，意在说明：对于一个题目，不能固有地按照 Rating 来评价难度，这是极其重要的。
+
+### 关于 Whalica Cup
+Whalica Cup 是一项由我（Whalica，华黎卡） 主办的小型程序设计竞赛，截至此文撰写时已举办一届，各届的内容（题面，题解等）在比赛后都会上传至此处，欢迎参加 Whalica Cup ！更多有关内容请加入QQ群：华黎卡的ACM/XCPC代码工坊 932480295 。
